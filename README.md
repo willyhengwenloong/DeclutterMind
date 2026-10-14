@@ -1,5 +1,8 @@
 # ⚡ DeclutterMind | AI Canvas Workspace
+### Your mind, decluttered. Your Study workspace, supercharged.
+ 
 
+**DeclutterMind** transform your fragemented thoughts into a seamless infinite workspace
 
 ![App Screenshot](assets/view2.png)
 
