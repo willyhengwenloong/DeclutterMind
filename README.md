@@ -14,6 +14,7 @@
 
 Built with a focus on clean UX architecture, sub-second interface responsiveness, local data persistence, and integrated artificial intelligence, the application streamlines modern brainstorming and study workflows.
 
+**Demo Video:** https://youtu.be/k4xIZ0_PiUU
 ---
 
 ## 🚀 Core Features
