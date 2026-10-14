@@ -3,9 +3,9 @@
 
 ![App Screenshot](assets/view2.png)
 
-<img src="assets/declutterGif.gif" width="45%" /> 
-<img src="assets/declutterGif1.gif" width="45%" />
-<img src="assets/view1.png" width="50%" /> 
+<img src="assets/declutterGif.gif" width="100%" /> 
+<img src="assets/declutterGif1.gif" width="100%" />
+<img src="assets/view1.png" width="100%" /> 
 
 **DeclutterMind** is a modular desktop productivity suite built with Python and CustomTkinter, designed to help students and developers organize fragmented thoughts, study notes, and references onto a seamless infinite canvas.
 
